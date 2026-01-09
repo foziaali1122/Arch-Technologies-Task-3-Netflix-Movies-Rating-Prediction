@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/8943/8943377.png" alt="Chatbot Logo" width="200"/>
+  <https://github.com/foziaali1122/Arch-Technologies-Task-3-Netflix-Movies-Rating-Prediction/blob/master/netflix_logo.png>
 </p>
 
 
