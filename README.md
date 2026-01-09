@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <netflix_logo.png>
+  <img src="https://cdn-icons-png.flaticon.com/512/8943/8943377.png" alt="netflix Logo" width="200"/>
 </p>
 
 
