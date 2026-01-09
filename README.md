@@ -1,5 +1,11 @@
 # 🎬 Netflix Movies Rating Analysis & Prediction
 
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/8943/8943377.png" alt="Chatbot Logo" width="200"/>
+</p>
+
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-green)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
