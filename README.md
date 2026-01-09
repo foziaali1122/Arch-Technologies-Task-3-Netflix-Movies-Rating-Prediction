@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/foziaali1122/Arch-Technologies-Task-3-Netflix-Movies-Rating-Prediction/blob/master/netflix_logo.png" alt="netflix Logo" width="200"/>
+  <img src="https://github.com/foziaali1122/Arch-Technologies-Task-3-Netflix-Movies-Rating-Prediction/blob/master/netflix_logo.png" alt="netflix Logo" width="700"/>
 </p>
 
 
